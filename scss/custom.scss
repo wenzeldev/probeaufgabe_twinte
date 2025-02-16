@@ -1,0 +1,11 @@
+
+
+body {
+  background-color: rgb(27, 27, 27);
+  color: white;
+}
+
+.hero, .leistungen, .warum, .referenzen {
+  min-height: 100vh;
+  height: fit-content;
+}
